@@ -1,0 +1,68 @@
+body {
+  background-color: #393E46;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
+
+#profile {
+  border-radius: 50%;
+  border: 5px solid white;
+}
+
+h1 {
+  padding-bottom: ;
+}
+
+.section-grey {
+  background: #a0a0a0a1;
+  width: 600px;
+  border-radius: 4px;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 4px 4px 10px rgba(0,0,0,0.3);
+  margin: 13px auto;
+
+}
+
+.section-grey p {
+  font-weight: 200;
+  padding-top: 20px;
+}
+
+
+.list-inline {
+  list-style: none;
+  display: inline;
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline-block;
+  margin: 0px 25px;
+  width: 99px;
+}
+
+#banner-image {
+  background-size: cover;
+
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+table td p {
+  font-size: 14px;
+  line-height: 18px;
+  text-align: justify;
+  margin-left: 10px;
+}
+
+.footer {
+  text-align: center;
+}
+
+h2 {
+  font-weight: 300
+}
